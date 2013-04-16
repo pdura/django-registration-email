@@ -3,3 +3,7 @@ build/
 dist/
 *egg-info/
 
+
+django-registration-email.sublime-project
+
+django-registration-email.sublime-workspace
